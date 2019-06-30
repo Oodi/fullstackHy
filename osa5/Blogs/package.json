@@ -7,7 +7,7 @@
     "prop-types": "*",
     "react": "*",
     "react-dom": "*",
-    "react-scripts": "*"
+    "react-scripts": "^3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
